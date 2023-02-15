@@ -1,6 +1,6 @@
-package com.wix.workshop.money.bankmanager
+package com.workshop.money.bankmanager
 
-import com.wix.workshop.money.model.Account
+import com.workshop.money.model.Account
 
 class ResilientTransferManager {
 

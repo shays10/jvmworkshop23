@@ -1,6 +1,6 @@
-package com.wix.workshop.app1
+package com.wix.workshop.city
 
-import com.wix.workshop.app1.cache.CityCache
+import com.wix.workshop.city.cache.CityCache
 
 import scala.util.Random
 

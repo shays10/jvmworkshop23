@@ -1,4 +1,4 @@
-package com.wix.workshop.app1.model
+package com.wix.workshop.city.model
 
 class CityId(val id: Long) {
   override def hashCode(): Int = id.hashCode()

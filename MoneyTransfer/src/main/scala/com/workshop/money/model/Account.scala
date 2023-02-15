@@ -1,4 +1,4 @@
-package com.wix.workshop.money.model
+package com.workshop.money.model
 
 import scala.util.Random
 

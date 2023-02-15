@@ -87,7 +87,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.wix.workshop.money.MoneyTransfer</mainClass>
+                            <mainClass>com.workshop.money.MoneyTransfer</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

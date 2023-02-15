@@ -1,6 +1,6 @@
-package com.wix.workshop.app1
+package com.wix.workshop.city
 
-import com.wix.workshop.app1.servlet.CacheServlet
+import com.wix.workshop.city.servlet.CacheServlet
 import org.eclipse.jetty.server.Server
 import org.eclipse.jetty.servlet.ServletHandler
 
