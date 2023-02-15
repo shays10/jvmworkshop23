@@ -33,7 +33,7 @@ Let's open the heap dump and look at the `Objects` tab. What is wrong here? (Loo
 
 7. Let's try to simulate faster what will happen over time. Let's increase the rate of requests
 (by simply looping infinitely) while decreasing the heap size.
-Run `./fast_run.sh` - It will do that for you. Sooner or later, the app will crash.
+Run `./fast_run.sh` - It will do that for you and will crash your app.
 
 ## :hammer: Fixing the issue  
 
