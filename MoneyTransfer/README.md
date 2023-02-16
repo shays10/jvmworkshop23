@@ -30,7 +30,7 @@ Investigate the results.
 ## :hammer: Fixing the issue  
 
 You figured out what went wrong, awesome!  
-Open the source code and try to fix the problem (while keeping our app "Always correct"!). 
+Open the source code in your favorite IDE (load the `pom.xml`) and try to fix the problem (while keeping our app "Always correct"!). 
 Rerun the app and make sure it completes successfully.
 
 Hint [is here](solution/Hint.md)
