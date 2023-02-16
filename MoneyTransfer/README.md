@@ -14,7 +14,7 @@ Git clone `jvmworkshop23`
 
 ## :computer: Running locally 
 
-In your terminal navigate to `jvmworkshop23/MoneyTransfer`, execute `./compile.sh` and `./run.sh`.  
+In your terminal navigate to `MoneyTransfer`, execute `./compile.sh` and `./run.sh`.  
 (Compiling might take 2-3 minutes..).  
 
 Your app is now running but never completes.
