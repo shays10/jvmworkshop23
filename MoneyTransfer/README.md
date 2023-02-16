@@ -8,11 +8,13 @@ After completing it will print out the current balance of each account.
 
 ## Cloning the repo
 
-Git clone `wix-academy` or update it to the latest. `git@github.com:wix-private/wix-academy.git`
+Git clone `jvmworkshop23`  
+
+`git clone git@github.com:shays10/jvmworkshop23.git`
 
 ## :computer: Running locally 
 
-In your terminal navigate to `wix-academy/workshops/jvm/MoneyTransfer`, execute `./compile.sh` and `./run.sh`.  
+In your terminal navigate to `jvmworkshop23/MoneyTransfer`, execute `./compile.sh` and `./run.sh`.  
 (Compiling might take 2-3 minutes..).  
 
 Your app is now running but never completes.
