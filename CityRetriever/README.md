@@ -36,7 +36,7 @@ Run `./fast_run.sh` - It will do that for you and will crash your app.
 
 ## :hammer: Fixing the issue  
 
-8. Open the source code in your favorite IDE. (load the `pom.xml` in `/jvmworkshop`). Locate and try to fix the problem.
+8. Open the source code in your favorite IDE (load the `pom.xml`). Locate and try to fix the problem.
 
 9. Compile and run again to make sure the problem is solved.
 
