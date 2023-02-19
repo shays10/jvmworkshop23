@@ -4,7 +4,8 @@
 You probably noticed that our app is misbehaving.
 
 Even though we just requested 10 unique cities, our app used A LOT of memory over time. 
-When we take a heap dump we can see that our `City` class has a lot of instances. (Precisely 10K instances after 10K requests) 
+When we take a heap dump we can see that our `City` class has a lot of instances. 
+(Precisely 6K instances after 6K requests) 
 
  
 The root cause is that our `CityId` class implemented `hashcode` without `equals`.
