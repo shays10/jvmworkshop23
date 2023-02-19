@@ -3,7 +3,10 @@
 The Always Correct Money Transfer application allows you to safely and conveniently transfer money from one account to the other.  
 It keeps your account safe and only withdraws the amount it should.
 
-To test that it is working properly, running our app will transfer 5$ from `Foo` account to `Bar` and 5$ from `Bar` account to `Foo`.  
+To test that it is working properly, running our app will:  
+Transfer 5$ from `Foo` account to `Bar` and.  
+Transfer 5$ from `Bar` account to `Foo`.  
+
 After completing it will print out the current balance of each account.
 
 ## Cloning the repo
@@ -17,7 +20,8 @@ Git clone `jvmworkshop23`
 In your terminal navigate to `MoneyTransfer`, execute `./compile.sh` and `./run.sh`.  
 (Compiling might take 2-3 minutes..).  
 
-Your app is now running but never completes.
+Your app is now running but never completes.  
+Let's keep it running and investigate.
 
 ## :mag_right: Gathering evidence
 
