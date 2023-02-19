@@ -21,7 +21,7 @@ To test that it is working properly, let's fire up the server and see what happe
 
 ![](../images/loadlocal.png)
 
-4. Run `./create_load.sh` from a new terminal window. It will create 10K requests. 
+4. Run `./create_load.sh` from a new terminal window. It will create 6K requests. 
 Each request will try to retrieve one of the first 10 cities (So eventually there should be no more than 10 cities in our cache)
 
 5. Back to VisualVM. You should see the Heap graph going wild. It might take a while to be reflected.  
