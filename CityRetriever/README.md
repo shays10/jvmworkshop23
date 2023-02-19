@@ -17,7 +17,9 @@ To test that it is working properly, let's fire up the server and see what happe
 
 2. In a separate terminal window, locate your PID via `jps`.
 
-3. Open Visualvm (can be found in your Mac's "Applications" or "Launchpad"), locate your app and go to the `Monitor` tab. 
+3. Open Visualvm (can be found in your Mac's "Applications" or "Launchpad"), locate your app and go to the `Monitor` tab.  
+
+![](../images/loadlocal.png)
 
 4. Run `./create_load.sh` from a new terminal window. It will create 10K requests. 
 Each request will try to retrieve one of the first 10 cities (So eventually there should be no more than 10 cities in our cache)
