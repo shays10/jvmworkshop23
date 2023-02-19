@@ -1,6 +1,6 @@
-package com.wix.workshop.city.cache
+package com.workshop.city.cache
 
-import com.wix.workshop.city.model.{City, CityId}
+import com.workshop.city.model.{City, CityId}
 
 import scala.collection.immutable.HashMap
 

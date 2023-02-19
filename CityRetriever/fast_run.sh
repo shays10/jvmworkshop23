@@ -1,1 +1,1 @@
-java -Xmx100M -cp target/CityRetriever-1.0-SNAPSHOT-jar-with-dependencies.jar com.wix.workshop.app1.LoopingApp
+java -Xmx100M -cp target/CityRetriever-1.0-SNAPSHOT-jar-with-dependencies.jar com.workshop.city.LoopingApp

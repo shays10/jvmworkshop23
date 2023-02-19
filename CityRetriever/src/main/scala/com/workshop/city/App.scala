@@ -1,9 +1,12 @@
-package com.wix.workshop.city
+package com.workshop.city
 
-import com.wix.workshop.city.servlet.CacheServlet
+import com.workshop.city.servlet.CacheServlet
 import org.eclipse.jetty.server.Server
 import org.eclipse.jetty.servlet.ServletHandler
 
+/***
+ * Don't modify this file :)
+ */
 object App {
 
   def main(args: Array[String]) {

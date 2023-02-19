@@ -1,9 +1,9 @@
-package com.wix.workshop.city.servlet
+package com.workshop.city.servlet
 
 import java.io.OutputStreamWriter
 
-import com.wix.workshop.city.cache.CityCache
-import com.wix.workshop.city.model.City
+import com.workshop.city.cache.CityCache
+import com.workshop.city.model.City
 import javax.servlet.http.{HttpServlet, HttpServletRequest, HttpServletResponse}
 
 class CacheServlet extends HttpServlet {

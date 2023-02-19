@@ -1,10 +1,12 @@
-package com.wix.workshop.city
+package com.workshop.city
 
-import com.wix.workshop.city.cache.CityCache
+import com.workshop.city.cache.CityCache
 
 import scala.util.Random
 
-
+/***
+ * Don't modify this file :)
+ */
 object LoopingApp {
 
   def main(args: Array[String]) {

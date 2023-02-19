@@ -98,7 +98,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.wix.workshop.city.App</mainClass>
+                            <mainClass>com.workshop.city.App</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
