@@ -3,6 +3,9 @@ package com.workshop.money
 import com.workshop.money.bankmanager.ResilientTransferManager
 import com.workshop.money.model.Account
 
+/***
+ * Do not modify this class :)
+ */
 object MoneyTransfer {
 
   def main(args: Array[String]) {
