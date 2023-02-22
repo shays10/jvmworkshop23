@@ -11,7 +11,8 @@ To test that it is working properly, let's fire up the server and see what happe
 
 ## :computer: Running locally 
 
-1. In your terminal navigate to `CityRetriever`, execute `./compile.sh` and `./run.sh`. Your Jetty server should be up and running.
+1. In your terminal navigate to `CityRetriever` folder, located in the root of this repository.  
+Execute `./compile.sh` and `./run.sh`. Your Jetty server should be up and running.
 
 ## :mag_right: Gathering evidence
 
