@@ -30,12 +30,15 @@ Each request will try to retrieve one of the first 10 cities (So eventually ther
 To investigate further, let's take a heap dump. In JVisualVM: `Monitor` tab -> `Heap dump` (right upper corner). 
 Let's open the heap dump and look at the `Objects` tab. What is wrong here? (Look for the `City` instances..)
 
-## :boom: Creating even more load!
-
 6. Kill the app. 
 
-7. Let's try to simulate faster what will happen over time. Let's increase the rate of requests, by simply looping infinitely.
+## :boom: Creating even more load!
+
+7. What will happen if we keep firing requests?  
+
+Let's simulate what will happen over time, by infinitely fetching the first 10 cities.    
 Run `./fast_run.sh` - It will do that for you and will crash your app.
+
 
 ## :hammer: Fixing the issue  
 
