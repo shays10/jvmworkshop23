@@ -45,6 +45,11 @@ Run `./fast_run.sh` - It will do that for you and will crash your app.
 8. Open the source code in your favorite IDE (load the `CityRetriever/pom.xml`).  
 Locate and try to fix the problem.  
 
+> **Note**  
+>
+> For the sake of this workshop, we recommend opening the code in a Text Editor/IDE and running it with `./compile.sh` and `./run.sh`. 
+> It will prevent possible issues with IDEs not properly configuring Scala/Maven projects out of the box.  
+
 9. Compile and run again to make sure the problem is solved.
 
 Solution [is here](solution/Solution.md)
