@@ -30,7 +30,7 @@ While your app is still running - In a new terminal, take a thread dump using `j
 You can use `jps` to locate your PID.   
 
 
-Investigate the results.
+Investigate the results. This should look rather familiar :)   
 
 ## :hammer: Fixing the issue  
 
