@@ -17,7 +17,7 @@ Git clone `jvmworkshop23`
 
 ## :computer: Running locally 
 
-In your terminal navigate to the `/MoneyTransfer` folder.  
+In your terminal navigate to the `MoneyTransfer` folder found in the root of the repo.  
 Execute `./compile.sh` and `./run.sh`.  
 (Compiling might take 2-3 minutes..).  
 
