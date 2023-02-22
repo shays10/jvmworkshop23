@@ -1,15 +1,20 @@
 # App #3: "The Always Correct Money Transfer" :moneybag:
 
-The Always Correct Money Transfer application allows you to safely and conveniently transfer money from one account to the other.  
+## :sparkles: Introduction
+
+This app is basically the same app we took a thread dump from earlier (app #1).  
+But this time, we'll deep-dive, inspect it locally and fix it!
+
+`The Always Correct Money Transfer` application allows you to safely and conveniently transfer money from one account to the other.  
 It keeps your account safe and only withdraws the amount it should.
 
-To test that it is working properly, running our app will:  
+When running the application, it will:  
 Transfer 5$ from `Foo` account to `Bar` and.  
 Transfer 5$ from `Bar` account to `Foo`.  
 
 After completing it will print out the current balance of each account.
 
-## Cloning the repo
+## :arrow_heading_down: Cloning the repo
 
 Git clone `jvmworkshop23`  
 
@@ -34,7 +39,6 @@ Investigate the results. This should look rather familiar :)
 
 ## :hammer: Fixing the issue  
 
-You figured out what went wrong, awesome!  
 Open the source code in your favorite IDE (open `/MoneyTransfer/pom.xml` in IntelliJ, for example) and try to fix the problem, while keeping the correctness of the app. 
 
 Rerun the app and make sure it completes successfully.
