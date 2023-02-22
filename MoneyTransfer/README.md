@@ -39,6 +39,11 @@ Open the source code in your favorite IDE (open `/MoneyTransfer/pom.xml` in Inte
 
 Rerun the app and make sure it completes successfully.
 
+> **Note**  
+>
+> For the sake of this workshop, we recommend opening the code in a Text Editor/IDE and running it with `./compile.sh` and `./run.sh`. 
+> It will prevent possible issues with IDEs not properly configuring Scala/Maven projects out of the box.  
+
 Hint [is here](solution/Hint.md)
 
 Solution [is here](solution/Solution.md)
