@@ -1,7 +1,12 @@
 
 # App #4: "The Lightweight City Retriever" :city_sunrise:
 
-The Lightweight City Retriever application allows you to get information on any city you'd like, and fast!
+## :sparkles: Introduction
+
+This app is basically the same app we took a heap dump from earlier (app #2).  
+But this time, we'll deep-dive, inspect it locally and fix it!
+
+`The Lightweight City Retriever` application allows you to get information on any city you'd like, and fast!
 It introduces a revolutionary cache mechanism that will save you plenty of time and network latency.
 
 When a request for a city arrives, first we'll check if it exists in the cache. If it is still not in the cache, 
